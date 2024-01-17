@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    margin: 20px;
+    padding: 20px;
+}
+
+h1, h3, p{
+    padding: 10px;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+}
+
+iframe{
+    height: 300px;
+    width: 900px;
+}

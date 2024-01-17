@@ -1,0 +1,26 @@
+
+.margin, h2, table{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+form, input, textarea{
+    margin: 8px;
+    padding: 5px;
+}
+
+.submit{
+    padding: 7px;
+}
+
+div{
+    margin: 10px;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+    border-spacing: 0;
+}
+tr, th, td{
+    padding: 10px;
+}
