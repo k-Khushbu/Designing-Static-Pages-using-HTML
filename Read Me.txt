@@ -1,7 +1,7 @@
-Please find assignment solution file.
+Please find the assignment solution file.
 
 Please check home.html - (assignment solution file).
 
-other files are related to coding challange during the session.
+Other files are related to the coding challenge during the session.
 
 Thanks
